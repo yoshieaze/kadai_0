@@ -9,10 +9,14 @@
 　　a. index.htmlのオープニングでロゴのアニメーションをつけました。
   
   　　参照URL：https://webkcampus.com/202005/1749/
+ 
  b. Newsのボタンから次のページを用意し、ニュース記事及びSNSリンクをつけました
+ 
 　　 　　参照：HTML＆CSSとWebデザイン入門講座（書籍）
+ 
  c. CSSのアニメーションのライブラリを利用して、トップ画像、コース画像、ニュース画像につけました
- 　　　　参照：https://ciar4n.com/izmir/
+ 
+ 　　　参照：https://ciar4n.com/izmir/
 
 ③質問・疑問（あれば）
 なし
